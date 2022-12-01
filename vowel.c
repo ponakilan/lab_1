@@ -10,4 +10,5 @@ if (a=='a' || a=='e' || a=='i' || a=='o' || a=='u'){
 else {
 	printf("%c is a consonant.\n", a);
 }
+return 0;
 }
