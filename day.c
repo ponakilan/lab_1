@@ -28,4 +28,5 @@ printf("Saturday");
 else {
 printf("Enter a valid day number.\n");
 }
+return 0;
 }
