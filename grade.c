@@ -19,4 +19,5 @@ printf("Average\n");
 else if (grade=='F'){
 printf("Fail\n");
 }
+return 0;
 }
