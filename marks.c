@@ -20,4 +20,5 @@ percentage = total/3.0;
 division = percentage>90 ? 1 : (percentage>70&&percentage<90 ? 2 : 3);
 
 printf("Roll No : %d\nName : %s\nTotal : %f\nPercentage : %f\nDivision : %d\n", roll_no, name, total, percentage, division);
+return 0;
 }
