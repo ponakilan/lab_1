@@ -43,4 +43,5 @@ printf("December");
 else {
 printf("Enter a valid month number.\n");
 }
+return 0;
 }
